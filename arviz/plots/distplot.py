@@ -38,7 +38,7 @@ def plot_dist(
     **kwargs,
 ):
     """Plot distribution as histogram or kernel density estimates.
-
+    meow. :D
     By default continuous variables are plotted using KDEs and discrete ones using histograms
 
     Parameters
